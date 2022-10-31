@@ -1,0 +1,7 @@
+C:\Users\Alakron\source\repos\WeaponTestsConsole\bin\Debug\WeaponTestsConsole.exe.config
+C:\Users\Alakron\source\repos\WeaponTestsConsole\bin\Debug\WeaponTestsConsole.exe
+C:\Users\Alakron\source\repos\WeaponTestsConsole\bin\Debug\WeaponTestsConsole.pdb
+C:\Users\Alakron\source\repos\WeaponTestsConsole\obj\Debug\WeaponTestsConsole.csprojAssemblyReference.cache
+C:\Users\Alakron\source\repos\WeaponTestsConsole\obj\Debug\WeaponTestsConsole.csproj.CoreCompileInputs.cache
+C:\Users\Alakron\source\repos\WeaponTestsConsole\obj\Debug\WeaponTestsConsole.exe
+C:\Users\Alakron\source\repos\WeaponTestsConsole\obj\Debug\WeaponTestsConsole.pdb
